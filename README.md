@@ -36,7 +36,7 @@ This Tableau dashboard explores Airbnb listings across New York City, offering a
 
 ## Dashboard Preview
 
-![NYC Airbnb Dashboard](images/dashboard-preview.png)
+![dashboard_screenshot](https://github.com/user-attachments/assets/f4809436-7d2d-4fcd-9996-f01f544a21c7)
 
 ---
 
