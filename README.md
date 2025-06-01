@@ -38,6 +38,4 @@ This Tableau dashboard explores Airbnb listings across New York City, offering a
 
 ![dashboard_screenshot](https://github.com/user-attachments/assets/f4809436-7d2d-4fcd-9996-f01f544a21c7)
 
----
-
 This project demonstrates advanced Tableau dashboarding techniques including filters, calculated fields, parameter controls, and map-based visualizations. Ideal for showcasing data storytelling and exploratory analysis skills.
