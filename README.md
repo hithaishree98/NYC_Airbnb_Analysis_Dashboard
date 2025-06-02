@@ -22,12 +22,6 @@ This Tableau dashboard explores Airbnb listings across New York City, offering a
 -  **Staff KPIs**  
   Summarizes total hosts, neighborhoods, and review metrics for quick reference.
 
-## Tools Used
-
-- **Tableau Public** (Desktop Edition)
-- **Airbnb Open Data**
-- **Mapbox for Geospatial Layering**
-
 ## Files
 
 - `NYC_Airbnb_Dashboard.twbx` – Tableau packaged workbook
